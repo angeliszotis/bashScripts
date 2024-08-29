@@ -22,6 +22,4 @@ This script helps with:
 
     ```bash
     chmod +x fileManager.sh
-
-    ```bash
     ./fileManager.sh
